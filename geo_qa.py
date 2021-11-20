@@ -11,7 +11,7 @@ wiki_pref = "http://en.wikipedia.org"
 
 
 # ________________________Part 1 - Parser functions ________________________
-
+# TODO : fix case sensetive issue
 
 def parse_input(raw_input):
     # Strip <> from the input.
